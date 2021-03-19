@@ -41,7 +41,7 @@ nav { font-weight: 400;
 nav > ul { 
 	width: 33vw; 
 	display: flex; 
-	flx-direction: row; 
+	flex-direction: row; 
 	justify-content: flex-end; 
 }
 
