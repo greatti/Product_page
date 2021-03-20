@@ -5,12 +5,12 @@
 <p align = 'center'>This is a product page that im working now, of course it is just a prototype, but i want it to respect a list of "rules" that i made in css and html. For the next days i will be updating it and adding things to look better. </p>
 
 - [x] A header with a logo;
-- [ ] A header with a title;
+- [x] A header with a title;
 - [x] A header with a navbar;
 - [x] The navbar goes up and down when scrolling;
-- [ ] A area with a h3 tag;
-- [ ] A area to type the email;
-- [ ] A area to Submit your email to a page;
+- [x] A area with a h3 tag;
+- [x] A area to type the email;
+- [x] A area to Submit your email to a page;
 - [ ] Properties of the site, with icons and descriptions;
 - [ ] A video that runs automatically and muted;
 - [ ] A grid with a series of books indicated for every level of Physics student;
