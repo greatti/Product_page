@@ -14,7 +14,7 @@
 - [x] A area with a h3 tag;
 - [x] A area to type the email;
 - [x] A area to Submit your email to a page;
-- [ ] Properties of the site, with icons and descriptions;
+- [x] Properties of the site, with icons and descriptions;
 - [ ] A video that runs automatically and muted;
 - [ ] A grid with a series of books indicated for every level of Physics student;
 - [ ] A little description of the books;
