@@ -1,3 +1,6 @@
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+
 <p align = 'center'>
                                                                       <h2>Physics product page</h2>
 </p>
