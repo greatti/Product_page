@@ -260,3 +260,87 @@ iframe[Attributes Style] {
     max-width: 560px;
     width: 100%;
 }
+
+#prices { 
+	margin-top: 90px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+@media (max-width: 800px)
+#pricing {
+    flex-direction: column;
+} /*The block will go from row to column*/
+
+.product { 
+	display: flex; 
+	flex-direction: column; 
+	align-items: column;
+	text-align: column;
+	width: calc(100% / 3);
+  margin: 10px;
+	border: 3px solid #333;
+	border-radius: 3px;
+}
+
+@media (max-width: 800px)
+.product {
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.product > .level {
+    background-color: rgba(233,233,233,0.8);
+    color: #333;
+    padding: 15px 0;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: calc(100% / 3);
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 3px;
+}
+
+.level { 
+	font-weight: bold;
+	margin: 1%;
+}
+
+.product > h2 {
+    margin-top: 15px;
+}
+
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.product > button {
+    font-weight: 400;
+	max-width: 150px; 
+	width: 100%; 
+	margin: 15px 0px;
+	height: 30px;
+	border: 0;
+	background-color: #ccccff;
+	font-weight: bold;
+	text-align: center;
+	border: 3px solid #333;
+}
+
