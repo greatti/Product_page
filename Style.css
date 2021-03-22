@@ -344,3 +344,28 @@ ol {
 	border: 3px solid #333;
 }
 
+footer {
+    display: block;
+}
+
+footer > ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer > ul > li {
+    padding: 0 10px;
+}
+
+footer > ul > li > a {
+	color: white;
+	text-transform: uppercase;
+}
+
+footer > span {
+    margin-top: 5px;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 0.9em;
+    color: #444;
+}
