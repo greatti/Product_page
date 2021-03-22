@@ -22,7 +22,8 @@
 - [x] A little description of the books;
 - [x] A medium price of the books;
 - [x] A buttom to each of them, to view more;
-- [x] A footer with links.
+- [x] A footer with links;
+- [x] The links take you to a specific region of the page.
 
 <hr>
 
