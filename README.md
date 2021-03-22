@@ -17,13 +17,15 @@
 - [x] A area to type the email;
 - [x] A area to Submit your email to a page;
 - [x] Properties of the site, with icons and descriptions;
-- [ ] A video that runs automatically and muted;
-- [ ] A grid with a series of books indicated for every level of Physics student;
-- [ ] A little description of the books;
-- [ ] A medium price of the books;
-- [ ] A buttom to each of them, to view more;
-- [ ] A footer with links.
+- [x] A video that runs automatically and muted;
+- [x] A grid with a series of books indicated for every level of Physics student;
+- [x] A little description of the books;
+- [x] A medium price of the books;
+- [x] A buttom to each of them, to view more;
+- [x] A footer with links.
 
 <hr>
 
 The HTML code is [Structure](https://github.com/greatti/Product_page/blob/main/Structure.html) and CSS code is [Style](https://github.com/greatti/Product_page/blob/main/Style.css). All the structure is done, ill make some updates while i code the CSS, just if necessary. Feel free to send me suggestions.
+
+You can see the page in this [link](https://codepen.io/greatti/pen/vYyqvYG)
